@@ -261,6 +261,7 @@
 |2839. 설탕 배달|[링크](./%EB%B0%B1%EC%A4%80/Silver/2839.%E2%80%85%EC%84%A4%ED%83%95%E2%80%85%EB%B0%B0%EB%8B%AC/README.md)|
 |2941. 크로아티아 알파벳|[링크](./%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3/README.md)|
 |30804. 과일 탕후루|[링크](./%EB%B0%B1%EC%A4%80/Silver/30804.%E2%80%85%EA%B3%BC%EC%9D%BC%E2%80%85%ED%83%95%ED%9B%84%EB%A3%A8/README.md)|
+|35507. Good Bye， 설탕 배달！|[링크](./%EB%B0%B1%EC%A4%80/Silver/35507.%E2%80%85Good%E2%80%85Bye%EF%BC%8C%E2%80%85%EC%84%A4%ED%83%95%E2%80%85%EB%B0%B0%EB%8B%AC%EF%BC%81/README.md)|
 |4949. 균형잡힌 세상|[링크](./%EB%B0%B1%EC%A4%80/Silver/4949.%E2%80%85%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%E2%80%85%EC%84%B8%EC%83%81/README.md)|
 |5525. IOIOI|[링크](./%EB%B0%B1%EC%A4%80/Silver/5525.%E2%80%85IOIOI/README.md)|
 |7568. 덩치|[링크](./%EB%B0%B1%EC%A4%80/Silver/7568.%E2%80%85%EB%8D%A9%EC%B9%98/README.md)|
@@ -273,6 +274,7 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |1237. 정ㅋ벅ㅋ|[링크](./%EB%B0%B1%EC%A4%80/Unrated/1237.%E2%80%85%EC%A0%95%E3%85%8B%EB%B2%85%E3%85%8B/README.md)|
+|35515. Good Bye， BOJ！|[링크](./%EB%B0%B1%EC%A4%80/Unrated/35515.%E2%80%85Good%E2%80%85Bye%EF%BC%8C%E2%80%85BOJ%EF%BC%81/README.md)|
 ## 📚 프로그래머스
 ### 🚀 0
 | 문제번호 | 링크 |
